@@ -11,5 +11,5 @@ I'm passionate about computers and how they work, and I like making things both 
 - ⚒️ Experienced in Laravel, ASP.NET Core and Angular, and I love tinkering with embedded firmware for devices like the Pi Pico
 - ✈️ Outside of Computer Science, I am passionate about planes and trains (but not automobiles, I'm afraid)
 - 🛒 Worked as a payment supervisor in a large supermarket for two years
-- 📫 How to reach me: e: [me@gpeppard.com](me@gpeppard.com); w: [gpeppard.com](https://gpeppard.com); t: [@iaminventor02](https://twitter.com/iaminventor02)
+- 📫 How to reach me: e: [me@gpeppard.com](me@gpeppard.com); w: [gpeppard.com](https://gpeppard.com)
 - 😄 Pronouns: he/they/any
